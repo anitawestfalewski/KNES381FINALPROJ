@@ -10,5 +10,5 @@ Hello my name is Anita Westfalewski and I am a Kinesiology student in my last ye
 ### If you click these photos they will take you to a video analysis!
 [<img align ="left" width="300" height="400" src="IMG_6142.jpeg">](snowboarding.md) 
 
-[<img align ="center" width="300" height="400" src="IMG_2414.jpg">](rollerskating.md)
-![IMG_6142](https://user-images.githubusercontent.com/130501959/231302025-2e17cbfa-f774-45a5-b90a-59510d8d88c0.jpeg)
+[<img align ="center" width="300" height="400" src="https://github.com/anitawestfalewski/KNES381FINALPROJ/blob/master/IMG_2414.jpg">](rollerskating.md)
+
