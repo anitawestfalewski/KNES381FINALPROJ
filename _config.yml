@@ -24,7 +24,8 @@ navbar-links:
   Excel Analysis: "excel"
   Rollerskating Video Analysis: "rollerskating"
   Snowboarding Video Analysis: "snowboarding"
-  Author's home: "https://deanattali.com"
+  Other Projects:
+    - Scratch: "https://scratch.mit.edu/projects/801559251" 
 
 ################
 # --- Logo --- #
