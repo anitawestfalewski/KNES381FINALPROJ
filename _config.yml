@@ -22,8 +22,9 @@ author: Anita Westfalewski
 navbar-links:
   About Me: "aboutme"
   Excel Analysis: "excel"
-  Rollerskating Video Analysis: "rollerskating"
-  Snowboarding Video Analysis: "snowboarding"
+  Video Analysis:
+    - Rollerskating Video Analysis: "rollerskating"
+    - Snowboarding Video Analysis: "snowboarding"
   Other Projects:
     - Scratch: "https://scratch.mit.edu/projects/801559251" 
 
