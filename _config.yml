@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Excel Analysis: "excel"
   Video Analysis: "videoanalysis"
-  Rollerskating Video Analysis: "rollerskating"
-  Snowboarding Video Analysis: "snowboarding"
+    -Rollerskating Video Analysis: "rollerskating"
+    -Snowboarding Video Analysis: "snowboarding"
   Author's home: "https://deanattali.com"
 
 ################
