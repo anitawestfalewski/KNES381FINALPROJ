@@ -22,9 +22,8 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Excel Analysis: "excel"
-  Video Analysis: "videoanalysis"
-    - Rollerskating: "rollerskating.md"
-    - Snowboarding: "snowboarding.md"
+  Rollerskating Video Analysis: "rollerskating"
+  Snowboarding Video Analysis: "snowboarding"
   Author's home: "https://deanattali.com"
 
 ################
