@@ -4,7 +4,7 @@
 <p> Figure 1. Anita's sleep duration for the months of January, February, and March of 2023. </p>
 
 ### Figure 1 Discussion
-hi hihi As shown in the image, my nightly sleep durations fluctuate extremely throughout the first 3 months of 2023 with my average being 5.95 hours a night. I would say this is an insufficient amount of sleep and is very unsustainable in the long term and puts me at risk for several diseases and health risks in the future. This is the last project of my degree so I am hoping to catch up on all the sleep debt I have accumulated (LOL!) 😅😅 My lowest sleep duration was 2.32 hours on Janurary 6th and my greates amount of sleep was 8.63 hours on February 15th. 
+As shown in the image, my nightly sleep durations fluctuate extremely throughout the first 3 months of 2023 with my average being 5.95 hours a night. I would say this is an insufficient amount of sleep and is very unsustainable in the long term and puts me at risk for several diseases and health risks in the future. This is the last project of my degree so I am hoping to catch up on all the sleep debt I have accumulated (LOL!) 😅😅 My lowest sleep duration was 2.32 hours on Janurary 6th and my greatest amount of sleep was 8.63 hours on February 15th. 
 
 ![sleepstatefrequency](https://user-images.githubusercontent.com/130501959/231295862-86d80bbb-a4f1-455a-9e42-852fa7a56f31.jpg)
 <p> Figure 2. Frequency of sleep states (deprived, minimal, adequate, and oversleeping) based on specified sleep durations. </p>
