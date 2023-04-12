@@ -9,7 +9,7 @@
 <p> Figure 1. Anita's sleep duration for the months of January, February, and March of 2023. </p>
 
 ### Figure 1 Discussion
-As shown in the image, my nightly sleep durations fluctuate extremely throughout the first 3 months of 2023 with my average being 5.95 hours a night. I would say this is an insufficient amount of sleep and is very unsustainable in the long term and puts me at risk for several diseases and health risks in the future. This is the last project of my degree so I am hoping to catch up on all the sleep debt I have accumulated (LOL!) 😅😅 My lowest sleep duration was 2.32 hours on Janurary 6th and my greatest amount of sleep was 8.63 hours on February 15th. 
+As shown in the image, my nightly sleep durations fluctuate extremely throughout the first 3 months of 2023 with my average being 5.95 hours a night. I would say this is an insufficient amount of sleep and is very unsustainable in the long term as it puts me at risk for several diseases and health concerns. My lowest sleep duration was 2.32 hours on January 6th and my greatest amount of sleep was 8.63 hours on February 15th. This is the last project of my degree so I am hoping to catch up on all the sleep debt I have accumulated (LOL!) 😅
 
 ![sleepstatefrequency](https://user-images.githubusercontent.com/130501959/231295862-86d80bbb-a4f1-455a-9e42-852fa7a56f31.jpg)
 <p> Figure 2. Frequency of sleep states (deprived, minimal, adequate, and oversleeping) based on specified sleep durations. </p>
@@ -21,11 +21,11 @@ Figure 2 shows the frequency of my sleep states over the past 3 months. The majo
 <p> Figure 3. Means of sleep duration (hrs) for each month. </p>
 
 ### Figure 3 Discussion
-Here we can see the average sleep duration I achieved for each month. On average, I got longest sleeps in the month of February (6.49 hrs per night +/- 1.41), possibly due to reading week and this being my birthday month so I let myself relax more 😊. In January I got the shortest sleeps (5.64 hrs per night +/- 1.41), most likely because I was doing a lot of traveling this month and spent several hours on overnight flights and "sleeping" on airport chairs.
+Here we can see the average sleep duration I achieved for each month. On average, I got the longest sleeps in the month of February (6.49 hrs per night +/- 1.41), possibly due to reading week and this being my birthday month so I let myself relax more 😊. In January I got the shortest sleeps (5.64 hrs per night +/- 1.41), most likely because I was doing a lot of traveling this month and spent several hours on overnight flights and "sleeping" on airport chairs.
 
 ![meanweekdaysleep](https://user-images.githubusercontent.com/130501959/231344399-4d43a8b5-1273-4867-b5cf-47dbceffa7f6.jpg)
 <p> Figure 4. Means of sleep duration based of the day of the week. </p>
 
 ### Figure 4 Discussion
-This graph shows sleep durations averaged based on the day of the week. On average, I slept the longest on Mondays (7.01 hrs per night) which makes sense because I typically got to sleep in on mondays! On Sundays, Tuesdays, Thursdays, Fridays, and Saturdays I usually got less than 6 hours a sleep per night since I always had to wake up for school, practicum, or work 😭.
+This graph shows sleep durations averaged based on the day of the week. On average, I slept the longest on Mondays (7.01 hrs per night) which makes sense because I typically got to sleep in on Mondays! On Sundays, Tuesdays, Thursdays, Fridays, and Saturdays I usually got less than 6 hours a sleep per night since I always had to wake up for school, practicum, or work 😭.
 
