@@ -4,6 +4,4 @@ title: Video Analysis
 subtitle: Using both the DartFish Windows application and mobile able
 ---
 
-If you want to see me rollerskate click [here](https://anitawestfalewski.github.io/KNES381FINALPROJ/rollerskating/)
-
-If you want to see me snowboard click [here](https://anitawestfalewski.github.io/KNES381FINALPROJ/snowboarding/) 
+Use the navigation bar on the top right to see the actual videos!
