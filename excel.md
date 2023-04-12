@@ -1,6 +1,6 @@
 <h3>Excel Analysis on Sleep Duration</h3>
 
-[A more in-depth analysis on my sleep!](https://github.com/anitawestfalewski/KNES381FINALPROJ/files/11207475/KNES381finalprojectexcel.xlsx)
+**[A more in-depth analysis on my sleep!](https://github.com/anitawestfalewski/KNES381FINALPROJ/files/11207475/KNES381finalprojectexcel.xlsx)**
 
 
 <p> <em> 👀Try changing to age of the participant to "teenager" and see how the sleep states fluctuate...👀</em> </p>
