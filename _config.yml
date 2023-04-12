@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Excel: "excel"
   Video Analysis:
-    - Rollerskating Video Analysis: "rollerskating"
     - Snowboarding Video Analysis: "snowboarding"
+    - Rollerskating Video Analysis: "rollerskating"
   Other Projects:
     - Scratch: "https://scratch.mit.edu/projects/801559251" 
     - App Presentation: "https://docs.google.com/presentation/d/1dlkEvQAa-UZxLro0OnxEGztEZdoZDvowluZVWznN6x8/edit?usp=sharing"
