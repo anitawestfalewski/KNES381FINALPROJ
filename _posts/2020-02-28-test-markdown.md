@@ -6,4 +6,4 @@ gh-repo: daattali/beautiful-jekyll
 comments: true
 ---
 
-**see the final product [here](excel.md)**
+Use the navigation bar on the top right to see more details!
